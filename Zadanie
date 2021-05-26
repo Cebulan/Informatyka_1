@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+
+<head>
+    <link rel="stylesheet" href="arkusz.css" type="text/css">
+
+    <meta charset="utf-8" />
+    <title>strona głowna B.S</title>
+    <style>
+        body {
+            background-color: rgb(131, 145, 103);
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <center>
+            <h1>Witaj na mojej stronie poświęcone temtyce rocka</h1>
+            <h3>A tutaj dam linki do 2 podstron</h3>
+            <a href="podstrona 1.html">
+                podstrona1
+            </a>
+            <a href="podstrona 2.html">
+                podstrona2
+            </a>
+
+        </center>
+    </div>
+    <div>
+        <center>
+            <img src="https://lh3.googleusercontent.com/NVJMcfRg6xSpi0BBEuoqX_NqlcSzvmrt_sUlSA-A8qnnLM_4AzPWzv5Etg9eNFw9S58s8Q=s500" alt="Moja Pasja" />
+        </center>
+    </div>
+    <div>
+        <p>Wszystkie style rockowe charakteryzują się brzmieniem opartym na różnego rodzaju gitarach (zwykle elektrycznych, elektrycznych basowych) i perkusji, z wyraźnie zarysowanym rytmem i śpiewem, wywodzącym się z bluesa, oraz sposobem wolnej improwizacji
+            w trakcie grania utworów, wywodzącym się z jazzu.</p>
+        <p> Ważną cechą muzyki rockowej, nieobecną w muzyce poważnej, jest zespołowość w procesie tworzenia; muzyka jest bowiem tworzona zespołowo i trudna do odtworzenia, gdy nie jest grana przez oryginalny zespół (zob. tribute band), często jest też zespołowo
+            komponowana.
+        </p>
+        <p>Niekiedy w sposób dynamiczny, kiedy to zainicjowany motyw muzyczny w serii jamów przetwarzany jest w utwór, który w swej końcowej fazie rzadko przypomina swą wyjściową formę. W muzyce rockowej, podobnie jak w jazzie, kompozytor i wykonawca to
+            najczęściej ta sama osoba lub grupa osób, a komponowanie i wykonywanie muzyki są często jednym procesem.
+        </p> Choć wymienione powyżej cechy opisują muzykę rockową, nie jest ona jednorodnym gatunkiem. W istocie, w skrajnych przypadkach mamy do czynienia ze sprzecznymi cechami. Z tego powodu wprowadzono mnogość kategorii dzielących poszczególne podgatunki
+        i style istniejące w ramach głównego gatunku. Klasyfikowanie takie jest niezwykle trudne i zwodnicze ze względu na wielką dynamikę, z jaką ten gatunek się rozwija oraz postawy indywidualistyczne twórców. Mimo to wyróżniono kilkanaście podgatunków
+        i wiele dziesiątek stylów, które pomagają sklasyfikować tę różnorodność. Podział na gatunki i style jest czysto arbitralny.
+    </div>
+
+</body>
